@@ -1,0 +1,16 @@
+{
+  "name": "What",
+  "short_name": "What",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "imgs/a.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
